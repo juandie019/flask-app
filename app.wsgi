@@ -1,4 +1,4 @@
-python_home = '/var/www/flas-app/virtualenv'
+python_home = '/var/www/flask-app/virtualenv'
 
 import sys
 import site
